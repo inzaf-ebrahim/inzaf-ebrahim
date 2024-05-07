@@ -1,9 +1,8 @@
 -
--   																					   👋 Hi, I’m inzaf-ebrahim
+                                               	   👋 Hi, I’m inzaf-ebrahim
 
--   																				A passionate developer from India
-
-- 
+-
+                                                A passionate developer from India
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=inzaf-ebrahim)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
