@@ -1,5 +1,5 @@
 -
-                                               	   👋 Hi, I’m inzaf-ebrahim
+                                               	  👋 Hi, I’m inzaf-ebrahim
 
 -
                                                 A passionate developer from India
